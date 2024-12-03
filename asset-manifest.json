@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stay-calculator/static/css/main.1039c740.css",
+    "main.js": "/stay-calculator/static/js/main.76ac42a6.js",
+    "static/js/453.0328ab69.chunk.js": "/stay-calculator/static/js/453.0328ab69.chunk.js",
+    "index.html": "/stay-calculator/index.html",
+    "main.1039c740.css.map": "/stay-calculator/static/css/main.1039c740.css.map",
+    "main.76ac42a6.js.map": "/stay-calculator/static/js/main.76ac42a6.js.map",
+    "453.0328ab69.chunk.js.map": "/stay-calculator/static/js/453.0328ab69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1039c740.css",
+    "static/js/main.76ac42a6.js"
+  ]
+}
